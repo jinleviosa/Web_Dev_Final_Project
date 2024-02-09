@@ -89,11 +89,11 @@ nav ul li a:hover:after{
 }
 
 .about .content img{
-    height: auto;
+    
     margin-top: 150px;
-    width: 400px;
+    width: 300px;
     max-width: 100%;
-    margin-left: 100px;
+    margin-left: 50px;
     filter: drop-shadow(10px 10px 10px #4444dd);
     cursor: pointer;
 }
@@ -104,7 +104,7 @@ nav ul li a:hover:after{
     padding-top: 200px;
     font-family: 'Poppins', sans-serif;
     padding-right: 50px;
-    margin-right: 50px;
+    margin-right: 0;
 }
 
 .content{
@@ -133,7 +133,7 @@ nav ul li a:hover:after{
 
 .team{
     position: relative;
-    margin-top: 200px;
+    margin-top: 350px;
     display: flex;
     align-items: center;
     justify-content: center;
