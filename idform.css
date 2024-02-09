@@ -249,7 +249,7 @@ form input:focus{
 }
 
 form button {
-    padding: 10px 50px;
+    padding: 10px 30px;
     background: #8723e6;
     color: #fff;
     font-size: 1.2em;
@@ -257,7 +257,7 @@ form button {
     outline: none;
     cursor: pointer;
     width: 10em;
-    margin: 2em 23em;
+    margin: 2em 15em;
     border-radius:2em;
     
 }
